@@ -159,14 +159,14 @@ function App() {
               <img src="https://placehold.co/600x400/9333ea/ffffff?text=Campaign+Image+1" alt="Campaign 1"/>
               <h3>Brand Launch: Local Artisans Collective</h3>
               <p>Successfully launched a new e-commerce platform for local artisans, driving 200% growth in initial sales.</p>
-              <a href="#Read">Read Case Study &rarr;</a>
+              <a href="#R">Read Case Study &rarr;</a>
             </div>
             {/* Campaign Item 2 */}
             <div className="campaign-item">
               <img src="https://placehold.co/600x400/9333ea/ffffff?text=Campaign+Image+2" alt="Campaign 2"/>
               <h3>Digital Transformation: Fintech Innovator</h3>
               <p>Re-engineered digital presence for a fintech startup, increasing user engagement by 40%.</p>
-              <a href="#Read">Read Case Study &rarr;</a>
+              <a href="#R">Read Case Study &rarr;</a>
             </div>
           </div>
           <button className="view-all-button">
@@ -208,13 +208,13 @@ function App() {
             <div className="innovation-item">
               <h3>AI-Powered Audience Insights</h3>
               <p>Our proprietary AI tools analyze consumer behavior to uncover deep market insights.</p>
-              <a href="#Read">Learn More &rarr;</a>
+              <a href="#R">Learn More &rarr;</a>
             </div>
             {/* Innovation Item 2 */}
             <div className="innovation-item">
               <h3>Immersive AR/VR Experiences</h3>
               <p>Pioneering augmented and virtual reality for next-level brand engagement.</p>
-              <a href="#Read">Discover Solutions &rarr;</a>
+              <a href="#R">Discover Solutions &rarr;</a>
             </div>
           </div>
         </div>
@@ -229,9 +229,9 @@ function App() {
             <div className="category-card">
               <h3>Latest Blog Posts</h3>
               <ul>
-                <li><a href="#Read">The Rise of Influencer Marketing in East Africa</a></li>
-                <li><a href="#Read">Data-Driven Strategies for Brand Growth</a></li>
-                <li><a href="#Read">Why Experiential Marketing Matters for Gen Z</a></li>
+                <li><a href="#R">The Rise of Influencer Marketing in East Africa</a></li>
+                <li><a href="#R">Data-Driven Strategies for Brand Growth</a></li>
+                <li><a href="#R">Why Experiential Marketing Matters for Gen Z</a></li>
               </ul>
               <button>Read All Blogs</button>
             </div>
@@ -239,8 +239,8 @@ function App() {
             <div className="category-card">
               <h3>Whitepapers & Reports</h3>
               <ul>
-                <li><a href="#Read">Report: African Consumer Trends 2024</a></li>
-                <li><a href="#Read">Guide: Navigating Digital PR in Emerging Markets</a></li>
+                <li><a href="#R">Report: African Consumer Trends 2024</a></li>
+                <li><a href="#R">Guide: Navigating Digital PR in Emerging Markets</a></li>
               </ul>
               <button>Download Resources</button>
             </div>
@@ -248,8 +248,8 @@ function App() {
             <div className="category-card">
               <h3>Upcoming Events</h3>
               <ul>
-                <li><a href="#Read">Webinar: Future of African Marketing - July 15, 2025</a></li>
-                <li><a href="#Read">NyRo Summit: Innovations in Brand Storytelling - Oct 2025</a></li>
+                <li><a href="#R">Webinar: Future of African Marketing - July 15, 2025</a></li>
+                <li><a href="#R">NyRo Summit: Innovations in Brand Storytelling - Oct 2025</a></li>
               </ul>
               <button>View All Events</button>
             </div>
